@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3e10f5a7ff4041649776c0b284bdfb85/artifacts
+end_time: 1769794787372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e10f5a7ff4041649776c0b284bdfb85
+run_name: sassy-shoat-537
+run_uuid: 3e10f5a7ff4041649776c0b284bdfb85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769794787333
+status: 3
+tags: []
+user_id: ankittyagi

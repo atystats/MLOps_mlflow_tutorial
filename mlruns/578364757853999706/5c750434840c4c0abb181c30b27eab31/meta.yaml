@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/578364757853999706/5c750434840c4c0abb181c30b27eab31/artifacts
+end_time: 1769797741768
+entry_point_name: ''
+experiment_id: '578364757853999706'
+lifecycle_stage: active
+run_id: 5c750434840c4c0abb181c30b27eab31
+run_name: unruly-boar-429
+run_uuid: 5c750434840c4c0abb181c30b27eab31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769797732634
+status: 3
+tags: []
+user_id: ankittyagi
