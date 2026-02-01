@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/46512b3910234ed4a42d976f6ec68a07/artifacts
+end_time: 1769968059124
+entry_point_name: ''
+experiment_id: '391628533776470586'
+lifecycle_stage: active
+run_id: 46512b3910234ed4a42d976f6ec68a07
+run_name: thoughtful-grub-694
+run_uuid: 46512b3910234ed4a42d976f6ec68a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769968059103
+status: 3
+tags: []
+user_id: ankittyagi

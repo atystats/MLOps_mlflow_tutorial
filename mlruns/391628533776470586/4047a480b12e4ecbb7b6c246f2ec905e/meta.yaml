@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/4047a480b12e4ecbb7b6c246f2ec905e/artifacts
+end_time: 1769968059370
+entry_point_name: ''
+experiment_id: '391628533776470586'
+lifecycle_stage: active
+run_id: 4047a480b12e4ecbb7b6c246f2ec905e
+run_name: enchanting-skink-908
+run_uuid: 4047a480b12e4ecbb7b6c246f2ec905e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769968059319
+status: 3
+tags: []
+user_id: ankittyagi

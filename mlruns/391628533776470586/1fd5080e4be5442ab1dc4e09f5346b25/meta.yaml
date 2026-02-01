@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/1fd5080e4be5442ab1dc4e09f5346b25/artifacts
+end_time: 1769968059098
+entry_point_name: ''
+experiment_id: '391628533776470586'
+lifecycle_stage: active
+run_id: 1fd5080e4be5442ab1dc4e09f5346b25
+run_name: adventurous-vole-403
+run_uuid: 1fd5080e4be5442ab1dc4e09f5346b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769968059075
+status: 3
+tags: []
+user_id: ankittyagi

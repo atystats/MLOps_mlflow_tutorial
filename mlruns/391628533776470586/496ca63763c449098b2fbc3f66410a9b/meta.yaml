@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/496ca63763c449098b2fbc3f66410a9b/artifacts
+end_time: 1769968059070
+entry_point_name: ''
+experiment_id: '391628533776470586'
+lifecycle_stage: active
+run_id: 496ca63763c449098b2fbc3f66410a9b
+run_name: dashing-crab-674
+run_uuid: 496ca63763c449098b2fbc3f66410a9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769968059048
+status: 3
+tags: []
+user_id: ankittyagi

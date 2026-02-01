@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/98fa51e514d24b45bac924a98600a3db/artifacts
+end_time: 1769968059016
+entry_point_name: ''
+experiment_id: '391628533776470586'
+lifecycle_stage: active
+run_id: 98fa51e514d24b45bac924a98600a3db
+run_name: stately-gull-565
+run_uuid: 98fa51e514d24b45bac924a98600a3db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769968058991
+status: 3
+tags: []
+user_id: ankittyagi

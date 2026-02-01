@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/0353ae5efdb5487288bfa2bdb02a8627/artifacts
+end_time: 1769968059310
+entry_point_name: ''
+experiment_id: '391628533776470586'
+lifecycle_stage: active
+run_id: 0353ae5efdb5487288bfa2bdb02a8627
+run_name: carefree-eel-177
+run_uuid: 0353ae5efdb5487288bfa2bdb02a8627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769968059269
+status: 3
+tags: []
+user_id: ankittyagi
