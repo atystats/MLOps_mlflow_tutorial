@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/578364757853999706/de45fee05e3d4e63beee3d0fe3ddd342/artifacts
+end_time: 1769966391729
+entry_point_name: ''
+experiment_id: '578364757853999706'
+lifecycle_stage: active
+run_id: de45fee05e3d4e63beee3d0fe3ddd342
+run_name: unique-stoat-316
+run_uuid: de45fee05e3d4e63beee3d0fe3ddd342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769966383670
+status: 3
+tags: []
+user_id: ankittyagi
