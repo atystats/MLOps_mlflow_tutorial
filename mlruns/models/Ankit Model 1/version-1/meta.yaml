@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1769968821670
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1769969074158
+name: Ankit Model 1
+run_id: 6806da86d7c84612b646825e4bdb2cac
+run_link: ''
+source: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/6806da86d7c84612b646825e4bdb2cac/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///Users/ankittyagi/MLOps_mlflow_tutorial/mlruns/391628533776470586/6806da86d7c84612b646825e4bdb2cac/artifacts/random_forest
+user_id: null
+version: 1
